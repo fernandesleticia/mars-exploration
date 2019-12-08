@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MarsExploration</string>
+    <string name="btn_grid_edit">Dimensão Planalto</string>
 </resources>
